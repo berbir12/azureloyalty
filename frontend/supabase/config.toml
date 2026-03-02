@@ -1,0 +1,4 @@
+project_id = "alfbjlqwultfupdozfhf"
+
+[functions.create-wallet-pass]
+verify_jwt = false

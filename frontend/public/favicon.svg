@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#0077be"/>
+  <!-- Sun -->
+  <circle cx="32" cy="22" r="9" fill="#FFD700"/>
+  <!-- Wave 1 -->
+  <path d="M4 42 Q12 34 20 42 Q28 50 36 42 Q44 34 52 42 Q58 48 60 42" stroke="white" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Wave 2 -->
+  <path d="M4 51 Q12 43 20 51 Q28 59 36 51 Q44 43 52 51 Q58 57 60 51" stroke="white" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+</svg>
